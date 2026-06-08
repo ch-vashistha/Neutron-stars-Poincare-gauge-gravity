@@ -1,5 +1,3 @@
-# Neutron-star-structure-in-Einstein-Cartan-gravity
+# Neutron stars in Poincaré gauge gravity with quadratic torsion
 
-Field equations in generalized Einstein-Cartan theory
-
-  Mathematica notebook implementing derivation of the field equations in generalized Einstein–Cartan gravity with quadratic torsion invariants within the minimal        Poincaré gauge framework. The notebook contains key analytical steps involved in constructing the effective energy–momentum tensor for Weyssenhoff spin fluids and     deriving torsion-induced corrections to neutron star structure, including the emergence of pressure anisotropy.
+This repository contains Mathematica notebooks for deriving the metric and contorsion field equations in Poincaré gauge gravity with quadratic torsion. The notebooks solve the algebraic contorsion equations in terms of the irreducible spin-current components, construct the effective energy--momentum tensor after eliminating torsion, and specialize the resulting equations to a Weyssenhoff fluid satisfying the Frenkel condition. The full Mathematica expression for the effective energy--momentum tensor presented in Appendix B of the paper is also included. 
